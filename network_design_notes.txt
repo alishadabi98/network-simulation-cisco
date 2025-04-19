@@ -1,0 +1,8 @@
+Network Design Notes
+---------------------
+- Subnet1: 192.168.10.0/24
+- Subnet2: 192.168.20.0/24
+- Routing Protocol: RIP v2
+- ACL: Block access from PC0 to 192.168.20.2
+- Firewall: Basic rules on Router1 to filter external access
+- Testing: All devices verified via ping and traceroute
